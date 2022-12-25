@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/KPInc425/willow-holiday-cards.git/static/css/main.5aa2039e.css",
-    "main.js": "/KPInc425/willow-holiday-cards.git/static/js/main.2f15642f.js",
-    "static/media/xmasStretchBG.png": "/KPInc425/willow-holiday-cards.git/static/media/xmasStretchBG.3da5d880502db2750ab1.png",
-    "static/media/Red_Present_Box.png": "/KPInc425/willow-holiday-cards.git/static/media/Red_Present_Box.650085e2e1fb21e565c6.png",
-    "static/media/xmasScroll.png": "/KPInc425/willow-holiday-cards.git/static/media/xmasScroll.9411ed728ec67641e21a.png",
-    "static/media/Epic Christmas.ttf": "/KPInc425/willow-holiday-cards.git/static/media/Epic Christmas.44e9ac712e18f676b19f.ttf",
-    "static/media/Lovely Christmas.ttf": "/KPInc425/willow-holiday-cards.git/static/media/Lovely Christmas.d523fbac508f8daebfbb.ttf",
-    "index.html": "/KPInc425/willow-holiday-cards.git/index.html",
-    "main.5aa2039e.css.map": "/KPInc425/willow-holiday-cards.git/static/css/main.5aa2039e.css.map",
-    "main.2f15642f.js.map": "/KPInc425/willow-holiday-cards.git/static/js/main.2f15642f.js.map"
+    "main.css": "/willow-holiday-cards/static/css/main.909dca69.css",
+    "main.js": "/willow-holiday-cards/static/js/main.ced734b6.js",
+    "static/media/xmasStretchBG.png": "/willow-holiday-cards/static/media/xmasStretchBG.3da5d880502db2750ab1.png",
+    "static/media/Red_Present_Box.png": "/willow-holiday-cards/static/media/Red_Present_Box.650085e2e1fb21e565c6.png",
+    "static/media/xmasScroll.png": "/willow-holiday-cards/static/media/xmasScroll.9411ed728ec67641e21a.png",
+    "static/media/Epic Christmas.ttf": "/willow-holiday-cards/static/media/Epic Christmas.44e9ac712e18f676b19f.ttf",
+    "static/media/Lovely Christmas.ttf": "/willow-holiday-cards/static/media/Lovely Christmas.d523fbac508f8daebfbb.ttf",
+    "index.html": "/willow-holiday-cards/index.html",
+    "main.909dca69.css.map": "/willow-holiday-cards/static/css/main.909dca69.css.map",
+    "main.ced734b6.js.map": "/willow-holiday-cards/static/js/main.ced734b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.5aa2039e.css",
-    "static/js/main.2f15642f.js"
+    "static/css/main.909dca69.css",
+    "static/js/main.ced734b6.js"
   ]
 }
